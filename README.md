@@ -1,2 +1,3 @@
-codice e dati per il progetto per una telemetria sospensioni (MTB) open source. Dettagli progetto su ![luigicennini.it/projects/fork-telemetry/
-](luigicennini.it/projects/fork-telemetry/)
+![](https://github.com/giggiox/fork-telemetry/fotoProgetto.jpg)
+
+codice e dati per il progetto per una telemetria sospensioni (MTB) open source. Dettagli progetto su ![luigicennini.it/projects/fork-telemetry/](www.luigicennini.it/projects/fork-telemetry/)
